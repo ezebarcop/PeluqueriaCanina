@@ -199,7 +199,3 @@ PeluqueriaCanina/
 ## 👤 Autor
 
 Desarrollado por **Ezequiel Barco Palacios** como proyecto de práctica en Java con JPA y Swing.
-
----
-
-> ⭐ Si este proyecto te resultó útil, ¡dejá una estrella en el repositorio!
